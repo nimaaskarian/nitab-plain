@@ -7,4 +7,4 @@ as a great person once said:
 nitab-plain comes with a vast variety of features (unlike Nitab itself), nitab-plain's features are listed below:  
 - Google Search
 
-> written using vim btw.
+> written using ***plain*** vim btw.
